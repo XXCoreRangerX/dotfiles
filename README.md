@@ -1,3 +1,3 @@
 # dotfiles
 
-Currently only Nord i3 theme
+Currently only Nord i3 theme dots.
